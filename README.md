@@ -1,4 +1,4 @@
-# 4-Bit-ALU-
+# 4-Bit-ALU (VLSI Project)
 This project presents the design and implementation of a simplified 4-bit Arithmetic Logic Unit (ALU), developed as part of the Introduction to VLSI course at Tel Aviv University (Winter 2024/5 semester).
 
 The project aims to give hands-on experience in designing, planning, and implementing a digital VLSI circuit, similar to real-world industry processes.
