@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Jan 24 03:46:49 2025 
+Best design point: 1
+Design specs: 
+	Ido_Final_test_setup_cq_1	corner	Nominal - 
+Design parameters: 
+	VDD		900m
+	VAC		900m
+	D		500n
+	delay		1n
+
+Interactive.8
+Number of points completed: 11
+Number of simulation errors: 0
+Interactive.8 completed. 
+Current time: Fri Jan 24 03:47:52 2025 
