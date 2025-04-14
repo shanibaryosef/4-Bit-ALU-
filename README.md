@@ -16,7 +16,7 @@ Operations:
 
 *    All arithmetic operations are performed using two’s complement representation.
 *    The ALU supports the following operations:
-        ADD: ⟨X⟩ = ⟨A⟩ + ⟨B⟩
+        ADD: ⟨X⟩ = ⟨A⟩ + ⟨B⟩, 
         SUB: ⟨Y⟩ = ⟨X⟩ - ⟨C⟩
 *    The design includes an internal register X[4:0] to store the sum of A and B.
 
